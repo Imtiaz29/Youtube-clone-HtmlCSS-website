@@ -1,0 +1,46 @@
+
+.video-title{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.video-stats{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14;
+    color: rgb(148, 152, 155);
+    margin-top: 0;
+    margin-bottom: 20;
+
+}
+.a{
+    font-family: 'Roboto Condensed', sans-serif;
+    font: size 14px; ;
+    color: rgb(148, 152, 155);
+    margin-top: 0;
+    margin-bottom: 20;
+}
+.b{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14px;
+    width: 280px;
+    color: rgb(148, 152, 155);
+    line-height: 20px;
+    margin-top: 0;
+}
+.c{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+.d:hover{
+    text-decoration: underline;
+
+}
